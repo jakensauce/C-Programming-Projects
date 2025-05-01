@@ -1,0 +1,1 @@
+This is a lab I did in C programming. It's just a demonstration of things like variables, if/else statements, functions, user input, etc.

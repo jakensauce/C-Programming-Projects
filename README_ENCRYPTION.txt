@@ -1,0 +1,1 @@
+This is the last lab I had to do in C programming which was about creating a file header. Then once the program reads that file header, it encrypts the words inside of it. It is also supposed to decrypt the header as well. This lab is basically supposed to demonstrate all the skills I learned in the last 2 labs. 

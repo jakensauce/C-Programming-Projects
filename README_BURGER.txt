@@ -1,0 +1,1 @@
+This is another project I did in C programming demonstrating memory manipulation with loops and arrays. It is supposed to be a burger game where you guess what ingredients are on it, but I never fully completed it. There are a few bugs here and there. 
